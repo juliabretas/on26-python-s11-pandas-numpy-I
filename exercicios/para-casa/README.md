@@ -7,24 +7,24 @@ Nesta semana trabalhamos com os dados do navio "Titanic", que contém informaç�
 Formato do notebook
 
 ●	Introdução
-○	Breve descrição da base de dados
+    ○	Breve descrição da base de dados
 ●	Processamento
-○	Função de processamento
-○	Leitura e tratamento do DF com o uso da função
-○	Export de DF para csv
+    ○	Função de processamento
+    ○	Leitura e tratamento do DF com o uso da função
+    ○	Export de DF para csv
 ●	Conclusão
-○	Insights
+    ○	Insights
 
 Atividades
 ●	Carregue o dataset em um DataFrame Pandas e mostre as primeiras 3 linhas.
 ●	Aplique técnicas de processamento de dados (tente ir além dos exemplos utilizados em sala de aula), crie uma função de pré-processamento e disponibilize o DataFrame final limpo em um arquivo .csv
 Requerimentos para função:
-○	mostrar head do DF
-○	deleção de colunas
-○	sort de valores
-○	remoção de nulos
-○	lista de colunas
-○	uma cópia do dataframe inicial
+    ○	mostrar head do DF
+    ○	deleção de colunas
+    ○	sort de valores
+    ○	remoção de nulos
+    ○	lista de colunas
+    ○	uma cópia do dataframe inicial
 ●	reset de index
 ●	apresentar dois insights gerados a partir de dataset
 ●	BÔNUS: traduzir colunas do dataset Titanic do inglês para o português
