@@ -16,12 +16,12 @@ Antes de começar, vamos organizar nosso setup.
 ### Resumo
 O que veremos na aula dessa semana?
 
-  ●	Conhecendo o Jupyter Notebook
-  ●	Executando comandos básicos Jupyter Notebook
-  ●	Instalando a biblioteca pandas
-  ●	Dataframe
-  ●	Manipulando dados em dataframes
-  ●	Tratamento de dados (remoção de dados nulos, substituição de valores, normalização, remoção de duplicados, preenchimento de valores)
+    *	Conhecendo o Jupyter Notebook
+    *	Executando comandos básicos Jupyter Notebook
+    *	Instalando a biblioteca pandas
+    *	Dataframe
+    *	Manipulando dados em dataframes
+    *	Tratamento de dados (remoção de dados nulos, substituição de valores, normalização, remoção de duplicados, preenchimento de valores)
 
 ***
 ### Exercícios 
